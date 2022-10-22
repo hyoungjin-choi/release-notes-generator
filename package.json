@@ -19,7 +19,7 @@
     "@semantic-release/release-notes-generator": "^9.0.2"
   },
   "devDependencies": {
-    "@types/node": "^16.18.0",
+    "@types/node": "^18.11.3",
     "@typescript-eslint/eslint-plugin": "^4.17.0",
     "@typescript-eslint/parser": "^4.17.0",
     "@vercel/ncc": "^0.27.0",
